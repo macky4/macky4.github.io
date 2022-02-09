@@ -1,0 +1,15 @@
+{
+  "homepage": "/macspokmodalerm/index.php",
+  "1.16.5": {
+    "<modversion>": "n0", 
+    // List all versions of your mod for the given Minecraft version, along with their changelogs
+    ...
+  },
+  "promos": {
+    "1.16.5": "a1.0.4",
+    // Declare the latest "bleeding-edge" version of your mod for the given Minecraft version
+    "1.16.5": "a1.0.4",
+    // Declare the latest "stable" version of your mod for the given Minecraft version
+    ...
+  }
+}
